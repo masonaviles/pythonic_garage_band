@@ -28,4 +28,6 @@ Creating a Garage Band with Object Oriented Programming.
 ## References & Links
 - [Python docs](https://docs.python.org/3/)
 - [Team Treehouse Python Basic OOP](https://teamtreehouse.com/library/basic-objectoriented-python)
+- [Team Treehouse Object-Oriented Python](https://teamtreehouse.com/library/objectoriented-python-2)
+
 
