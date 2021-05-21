@@ -1,14 +1,22 @@
 class Band:
-    pass
+    def __init__(self, name, members):
+        # which is a string.
+        self.name = name
+        # which is a list of instances that inherit from Musician
+        self.members = members
 
 class Musician:
-    pass
+    def __init__(self):
+        self
 
 class Guitarist:
-    pass
+    def __init__(self):
+        self
 
 class Bassist:
-    pass
+    def __init__(self):
+        self
 
 class Drummer:
-    pass
+    def __init__(self):
+        self
